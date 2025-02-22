@@ -2,7 +2,7 @@
 
 A modern, responsive Zomato clone built with React and Tailwind CSS. This project replicates the core UI features of Zomato's food delivery platform, demonstrating modern web development practices and responsive design principles.
 
-![Zomato Clone Preview](https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1920&q=80)
+
 
 ## Features
 
